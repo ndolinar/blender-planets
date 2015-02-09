@@ -2,4 +2,4 @@
 
 Free Blender planets.
 
-![alt text](http://www.nejoapps.eu/planets/winter.png "Winter wonderland")
+<img src="http://www.nejoapps.eu/planets/winter.png" alt="Winter Wonderland Planet" style="width:300px; display: block; text-align:center;">
